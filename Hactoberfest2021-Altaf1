@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Hacktoberfest 2020</title>
+</head>
+<body bgcolor="green">
+    <h1>
+    <font color = "puple">Hacktoberfest 2021</font>
+    </h1>
+
+    <p><font color = "blue">Name : Bambang Sumali </font></p>
+    <p>Nickname : Bambang</p>
+    <p><i>Country of Residence :
+        <font color = "red"> Indo</font><font color = "white"> nesia</font>
+    <center><img src="https://cdn0-production-images-kly.akamaized.net/tAr72vTJCpF4IF9O5L493CD79kE=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2754932/original/005940800_1552970791-fotoHL_kucing.jpg" alt="your potrait image" width="20%"></center>
+    </body>
+    </html>
+    <p>Age : 17</p>
+    <p>Addres : Jl. Raya KH Umar Rw. Ilat</p>
+    <p>Birth of date : 30 Mei 2003</p>
+</body>
+</html>
+
+ 
